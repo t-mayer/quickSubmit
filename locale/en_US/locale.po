@@ -1,0 +1,41 @@
+msgid "plugins.importexport.quickSubmit.displayName"
+msgstr "QuickSubmit Plugin"
+
+msgid "plugins.importexport.quickSubmit.description"
+msgstr "One-step submission plugin"
+
+msgid "plugins.importexport.quickSubmit.descriptionLong"
+msgstr "This plugin allows you to quickly add complete submissions to the production stage."
+
+msgid "plugins.importexport.quickSubmit.success"
+msgstr "Monograph Added"
+
+msgid "plugins.importexport.quickSubmit.successDescription"
+msgstr "Monograph creation was successful."
+
+msgid "plugins.importexport.quickSubmit.successReturn"
+msgstr "Return to QuickSubmit plugin."
+
+msgid "plugins.importexport.quickSubmit.cancel"
+msgstr "Submission cancelled"
+
+msgid "plugins.importexport.quickSubmit.cancelDescription"
+msgstr "Submission was cancelled."
+
+msgid "plugins.importexport.quickSubmit.published"
+msgstr "Published"
+
+msgid "plugins.importexport.quickSubmit.unpublished"
+msgstr "Unpublished"
+
+msgid "plugins.importexport.quickSubmit.goToSubmission"
+msgstr "Go to Submission"
+
+msgid "plugins.importexport.quickSubmit.selectIssue"
+msgstr "An issue must be selected"
+
+msgid "editor.article.removeCoverImageFileNotFound"
+msgstr "The cover image you requested to delete could not be found. It may have already been deleted. Try reloading the page."
+
+msgid "editor.issues.coverPage"
+msgstr "Cover Image"

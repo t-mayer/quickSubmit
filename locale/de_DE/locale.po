@@ -1,0 +1,41 @@
+msgid "plugins.importexport.quickSubmit.displayName"
+msgstr "Schnelleinreichungs-Plugin"
+
+msgid "plugins.importexport.quickSubmit.description"
+msgstr "Ein-Schritt-Einreichungs-Plugin"
+
+msgid "plugins.importexport.quickSubmit.descriptionLong"
+msgstr "Dieses Plugin emöglicht Ihnen, komplette Einreichungen schnell direkt in die Herstellungsphase zu importieren."
+
+msgid "plugins.importexport.quickSubmit.success"
+msgstr "Monographie hinzugefügt"
+
+msgid "plugins.importexport.quickSubmit.successDescription"
+msgstr "Anlegen der Monographie war erfolgreich."
+
+msgid "plugins.importexport.quickSubmit.successReturn"
+msgstr "Zum Schnelleinreichungs-Plugin zurückkehren."
+
+msgid "plugins.importexport.quickSubmit.published"
+msgstr "Veröffentlicht"
+
+msgid "plugins.importexport.quickSubmit.unpublished"
+msgstr "Unveröffentlicht"
+
+msgid "plugins.importexport.quickSubmit.goToSubmission"
+msgstr "Zur Einreichung gehen"
+
+msgid "plugins.importexport.quickSubmit.selectIssue"
+msgstr "Sie müssen eine Ausgabe auswählen"
+
+msgid "plugins.importexport.quickSubmit.cancelDescription"
+msgstr "Die Einreichung wurde abgebrochen."
+
+msgid "plugins.importexport.quickSubmit.cancel"
+msgstr "Einreichung abgebrochen"
+
+msgid "editor.issues.coverPage"
+msgstr "Titelbild"
+
+msgid "editor.article.removeCoverImageFileNotFound"
+msgstr "Das Titelbild, das Sie löschen wollten, konnte nicht gefunden werden. Vielleicht wurde es bereits gelöscht. Versuchen Sie, die Seite neu zu laden."
